@@ -1,0 +1,260 @@
+
+pack.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+helix
+  rotate: false
+  xy: 484, 379
+  size: 181, 122
+  orig: 181, 122
+  offset: 0, 0
+  index: -1
+planet01
+  rotate: false
+  xy: 484, 249
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+planet02
+  rotate: false
+  xy: 484, 119
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+planet03
+  rotate: false
+  xy: 667, 373
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+planet04
+  rotate: false
+  xy: 797, 373
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+planet05
+  rotate: false
+  xy: 614, 243
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+spray
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+sun
+  rotate: false
+  xy: 2, 20
+  size: 480, 481
+  orig: 480, 481
+  offset: 0, 0
+  index: -1
+
+pack2.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ui/check-off
+  rotate: false
+  xy: 67, 47
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ui/textfield
+  rotate: false
+  xy: 67, 47
+  size: 14, 14
+  split: 7, 6, 6, 7
+  pad: 4, 4, 4, 4
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ui/check-on
+  rotate: false
+  xy: 67, 31
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ui/cursor
+  rotate: false
+  xy: 110, 58
+  size: 3, 3
+  split: 1, 1, 1, 1
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+ui/default-pane
+  rotate: false
+  xy: 2, 5
+  size: 5, 3
+  split: 2, 2, 1, 1
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+ui/default-rect-pad
+  rotate: false
+  xy: 2, 5
+  size: 5, 3
+  split: 2, 2, 1, 1
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+ui/default-pane-noborder
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  split: 0, 0, 0, 0
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ui/default-rect
+  rotate: false
+  xy: 9, 5
+  size: 3, 3
+  split: 1, 1, 1, 1
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+ui/default-rect-down
+  rotate: false
+  xy: 77, 26
+  size: 3, 3
+  split: 1, 1, 1, 1
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+ui/default-round
+  rotate: false
+  xy: 53, 19
+  size: 12, 20
+  split: 5, 5, 10, 9
+  pad: 5, 5, 5, 4
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+ui/default-round-down
+  rotate: false
+  xy: 53, 41
+  size: 12, 20
+  split: 5, 5, 10, 9
+  pad: 5, 5, 5, 4
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+ui/default-round-large
+  rotate: false
+  xy: 31, 41
+  size: 20, 20
+  split: 10, 9, 9, 10
+  pad: 5, 5, 5, 5
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+ui/default-scroll
+  rotate: false
+  xy: 31, 19
+  size: 20, 20
+  split: 10, 9, 10, 9
+  pad: 2, 2, 2, 2
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+ui/default-select
+  rotate: false
+  xy: 2, 10
+  size: 27, 20
+  split: 5, 20, 10, 9
+  pad: 4, 18, 4, 4
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+ui/default-select-selection
+  rotate: false
+  xy: 36, 14
+  size: 3, 3
+  split: 1, 1, 1, 1
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+ui/default-slider
+  rotate: false
+  xy: 67, 21
+  size: 8, 8
+  split: 3, 3, 3, 3
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+ui/default-slider-knob
+  rotate: false
+  xy: 99, 43
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+ui/default-splitpane
+  rotate: false
+  xy: 99, 38
+  size: 5, 3
+  split: 2, 2, 1, 1
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+ui/default-splitpane-vertical
+  rotate: false
+  xy: 31, 12
+  size: 3, 5
+  split: 1, 1, 2, 2
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+ui/default-window
+  rotate: false
+  xy: 2, 32
+  size: 27, 29
+  split: 14, 12, 9, 19
+  pad: 6, 6, 5, 15
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+ui/selection
+  rotate: false
+  xy: 106, 40
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ui/tree-minus
+  rotate: false
+  xy: 83, 47
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ui/tree-plus
+  rotate: false
+  xy: 83, 31
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ui/white
+  rotate: false
+  xy: 99, 33
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
